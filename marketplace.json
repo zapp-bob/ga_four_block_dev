@@ -8,7 +8,7 @@
   "constants": {
     "GA4_CONNECTION": {
       "label": "Connection Name",
-      "value_constraint": "connection"
+      "value_constraint": "google_analytics"
     },
     "GA4_SCHEMA": {
       "label": "GA4 Schema"

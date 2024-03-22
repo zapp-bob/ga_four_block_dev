@@ -1,12 +1,12 @@
 
 ## Connection Constants:
 constant: GA4_CONNECTION {
-  value: "looker-demos"
+  value: "google_analytics"
   export: override_required
 }
 
 constant: GA4_SCHEMA {
-  value: "adh-demo-data-review.analytics_213025502"
+  value: "analytics_303790616"
   export: override_optional
 }
 
